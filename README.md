@@ -3,4 +3,3 @@ https://www.figma.com/design/6CsLwrpIwIDNb96EtCtW3s/Hi-Fi-%22Create-Custom-Worko
 See below for the High-Fidelity mock-up designs in Figma I created
 
 | ![](./PNG%20Images/CreateCustomizedWorkOutPlan1.png)      | ![](./PNG%20Images/CreateCustomizedWorkoutOutPlan2.png)     |  ![](./PNG%20Images/CreateCustomizedWorkoutOutPlan3.png)     | ![](./PNG%20Images/CreateCustomizedWorkoutOutPlan4.png)     |
-| ------------- |:-------------:|  ------------- |:-------------:|
